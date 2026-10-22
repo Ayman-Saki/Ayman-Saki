@@ -28,3 +28,11 @@ I'm currently expanding my knowledge of software architecture, distributed syste
 An event-driven application for monitoring Ethereum smart contract events, detecting unusual activity through rule-based analysis, and generating AI-powered summaries.
 
 **Tech Stack:** Java, Spring Boot, Angular, Apache Kafka, PostgreSQL, Web3j, Google Gemini
+
+
+
+
+## Connect with Me
+
+- **LinkedIn:** [Ayman Saki](https://www.linkedin.com/in/ayman-saki-965822333/)
+- **Email:** [sakiayman27@gmail.com](mailto:sakiayman27@gmail.com)
