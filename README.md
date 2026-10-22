@@ -18,3 +18,13 @@ I'm currently expanding my knowledge of software architecture, distributed syste
 **Databases:** PostgreSQL, MySQL, SQL Server, Oracle
 
 **Tools & Technologies:** Git, Docker, Kubernetes, Apache Kafka, Linux
+
+
+
+## Featured Projects
+
+### [Smart Contract Monitor](https://github.com/Ayman-Saki/smart-contract-monitor)
+
+An event-driven application for monitoring Ethereum smart contract events, detecting unusual activity through rule-based analysis, and generating AI-powered summaries.
+
+**Tech Stack:** Java, Spring Boot, Angular, Apache Kafka, PostgreSQL, Web3j, Google Gemini
