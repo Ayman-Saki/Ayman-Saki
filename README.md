@@ -5,3 +5,16 @@ I'm a final-year Software Engineering student at EMSI, Morocco, with an interest
 I've gained hands-on experience through software engineering internships, working with Java, Spring Boot, Angular, and other technologies.
 
 I'm currently expanding my knowledge of software architecture, distributed systems, and modern development practices.
+
+
+## Technical Skills
+
+**Languages:** Java, C#, C++, C, SQL
+
+**Backend:** Spring Boot, ASP.NET Core
+
+**Frontend:** Angular, React, HTML/CSS
+
+**Databases:** PostgreSQL, MySQL, SQL Server, Oracle
+
+**Tools & Technologies:** Git, Docker, Kubernetes, Apache Kafka, Linux
